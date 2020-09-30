@@ -1,3 +1,4 @@
 ### This Repository is for mastering TDD
 
-> I am trying to make project for testing my life
+> This project is in just beginning. 
+> In few month there migth be code
